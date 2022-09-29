@@ -15,6 +15,6 @@ jobs:
                     
             - name:  Performing pytest
               run: |
-                    pytest
+                    pytest -v -s
                     
           
