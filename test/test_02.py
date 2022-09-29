@@ -6,4 +6,4 @@ def test_02():
 
 @pytest.mark.xfail()
 def test_03():
-  assert False
+  assert True
