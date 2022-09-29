@@ -5,3 +5,6 @@ def test_02():
 
 def test_03():
   assert 'o' in 'sony'
+
+def test_04():
+  assert 4>2
